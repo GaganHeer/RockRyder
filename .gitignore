@@ -1,0 +1,6 @@
+*.meta
+!*.*.meta
+*.log
+logs
+obj
+library
